@@ -38,7 +38,7 @@ body {
   right: 10px;
   border-radius: 50%;
   display: inline-block;
-  background: url(../img/add.png);
+  background: url(add.png);
   background-size: cover;
   box-shadow: #e74c3c 0 0 10px;
   -webkit-transform: rotate(0);
