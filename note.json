@@ -8,19 +8,19 @@ var nolist = {
 		},
 		{
 			title: "day2",
-			content: "VueJs is a javascript framework!",
+			content: "轩哥QQ：211611411",
 			timeStamp: 1488715557459,
 			background: "#fcc"
 		},
 		{
 			title: "day3",
-			content: "it is time to study VueJs!",
+			content: "轩哥QQ：211611411",
 			timeStamp: 1488723517459,
 			background: "#eee4c9"
 		},
 		{
 			title: "day4",
-			content: "Try it",
+			content: "轩哥QQ：211611411",
 			timeStamp: 1488721017459,
 			background: "#ffa"
 		}
