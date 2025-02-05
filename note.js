@@ -2,7 +2,7 @@ var vm = new Vue({
 	el: '#myNote',
 	data: {
 		message: '这是一个在线便签',
-		tips: 'Stay hungry, stay foolish',
+		tips: '不可储存重要信息避免丢失',
 		noteList: [],
 		isShow: false,
 		isRotate: false,
@@ -47,8 +47,8 @@ var vm = new Vue({
 				this.noteList = JSON.parse(note);
 			}else{
 				this.noteList = [{
-								title: "day1",
-								content: "Try to create a new note!",
+								title: "第一天",
+								content: "请随意编辑笔记内容",
 								timeStamp: +new Date(),
 								color: "#000",
 								background: "#cdfbcd"
